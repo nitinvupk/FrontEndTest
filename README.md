@@ -33,20 +33,26 @@ The Buff UI should look like this:
 
 ![Buff](Buff.png)
 
-
-
 The UI has 3 sections:
 
 - Top Section that displays the Questions Sender Name and Image
 - Middle section where we see the question and the countdown timer
 - Bottom Section where we see the answers
 
-**The countdown timer should work and at the end if the user hasn't yet voted, the question should automatically hide**
+- [ ] The countdown timer should work and at the end if the user hasn't yet voted, the question should automatically hide
 
-**The number of answers can vary from 2 to 5, your UI should automatically adapt to the number of answers that the API delivers**
+- [ ] The number of answers can vary from 2 to 5, your UI should automatically adapt to the number of answers that the API delivers
 
-**If the user selects an answer, the timer should stop and you should hide the Buff after 2 seconds**
+- [ ] If the user selects an answer, the timer should stop and you should hide the Buff after 2 seconds. You should also highlight the selected answer.
 
+
+***The UI for this screen with the downloadable assets can be found here:***
+
+https://xd.adobe.com/view/763a1597-da0c-4b42-6fb9-73d5666aef52-000b/
+
+##### A sample video of the Buffs showing on the current iOS version can be seen here:
+
+https://github.com/buffup/AndroidTechTest/blob/master/Buff.mov?raw=true
 
 
 ## What we are looking for:
